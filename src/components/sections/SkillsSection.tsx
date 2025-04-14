@@ -45,9 +45,9 @@ const SkillsSection = () => {
               <TerminalWindow title="frontend.sh">
                 <div className="space-y-4">
                   <SkillBar name="JavaScript/TypeScript" percent={95} delay={100} />
-                  <SkillBar name="React & React Native" percent={90} delay={200} />
-                  <SkillBar name="Vue.js" percent={85} delay={300} />
-                  <SkillBar name="HTML5/CSS3/SASS" percent={92} delay={400} />
+                  <SkillBar name="React" percent={90} delay={200} />
+                  <SkillBar name="Java" percent={85} delay={300} />
+                  <SkillBar name="HTML5/CSS3" percent={92} delay={400} />
                   <SkillBar name="UI/UX Design" percent={80} delay={500} />
                 </div>
               </TerminalWindow>
@@ -57,7 +57,7 @@ const SkillsSection = () => {
                   <SkillBar name="Node.js" percent={92} delay={100} color="from-electric-blue to-neon-green" />
                   <SkillBar name="Python" percent={88} delay={200} color="from-electric-blue to-neon-green" />
                   <SkillBar name="C/C++" percent={75} delay={300} color="from-electric-blue to-neon-green" />
-                  <SkillBar name="PostgreSQL/MongoDB" percent={85} delay={400} color="from-electric-blue to-neon-green" />
+                  <SkillBar name="Firebase" percent={85} delay={400} color="from-electric-blue to-neon-green" />
                   <SkillBar name="AWS/Azure" percent={78} delay={500} color="from-electric-blue to-neon-green" />
                 </div>
               </TerminalWindow>
@@ -83,23 +83,23 @@ const SkillsSection = () => {
             <TerminalWindow title="certifications.log">
               <div className="space-y-6">
                 <div className="border-l-2 border-neon-green pl-4 py-2">
-                  <h3 className="font-mono text-lg text-neon-green mb-1">CISSP - Certified Information Systems Security Professional</h3>
-                  <p className="text-sm text-foreground/70">ISC² - 2019</p>
+                  <h3 className="font-mono text-lg text-neon-green mb-1">Google CyberSecurity</h3>
+                  <p className="text-sm text-foreground/70">Google, Coursera</p>
                 </div>
                 
                 <div className="border-l-2 border-neon-green pl-4 py-2">
-                  <h3 className="font-mono text-lg text-neon-green mb-1">OSCP - Offensive Security Certified Professional</h3>
-                  <p className="text-sm text-foreground/70">Offensive Security - 2018</p>
+                  <h3 className="font-mono text-lg text-neon-green mb-1">Ethical Hacking With Python</h3>
+                  <p className="text-sm text-foreground/70">Cyber Vidyapeeth</p>
                 </div>
                 
                 <div className="border-l-2 border-neon-green pl-4 py-2">
-                  <h3 className="font-mono text-lg text-neon-green mb-1">AWS Certified Security - Specialty</h3>
-                  <p className="text-sm text-foreground/70">Amazon Web Services - 2020</p>
+                  <h3 className="font-mono text-lg text-neon-green mb-1">AWS Cloud Solution Architect </h3>
+                  <p className="text-sm text-foreground/70">AWS Academy</p>
                 </div>
                 
                 <div className="border-l-2 border-neon-green pl-4 py-2">
-                  <h3 className="font-mono text-lg text-neon-green mb-1">Certified Ethical Hacker (CEH)</h3>
-                  <p className="text-sm text-foreground/70">EC-Council - 2017</p>
+                  <h3 className="font-mono text-lg text-neon-green mb-1">AWS Cloud Foundations</h3>
+                  <p className="text-sm text-foreground/70">AWS Academy</p>
                 </div>
               </div>
             </TerminalWindow>

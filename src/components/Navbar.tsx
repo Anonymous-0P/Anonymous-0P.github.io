@@ -51,7 +51,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <a href="#" className="font-mono text-xl font-bold text-neon-green">
             <span className="text-electric-blue">&lt;</span>
-            CyberPortfolio
+            PrakashPortfolio
             <span className="text-electric-blue">/&gt;</span>
           </a>
           

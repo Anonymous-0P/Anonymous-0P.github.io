@@ -25,7 +25,7 @@ const Index = () => {
             <span>Access Granted</span>
           </div>
         ),
-        description: "Welcome to my cybersecurity portfolio",
+        description: "Welcome to my portfolio",
       });
     }, 1500);
     

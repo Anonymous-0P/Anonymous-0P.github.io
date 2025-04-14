@@ -17,10 +17,10 @@ const AboutSection = () => {
               <div className="prose prose-invert max-w-none">
                 <div className="text-foreground/90 space-y-4">
                   <p>
-                    I am a cybersecurity specialist and full-stack developer with over 7 years of experience in building secure web applications and performing security assessments.
+                    I am a cybersecurity Engineer and Application developer with over 3 years of experience in building secure web applications and performing security assessments.
                   </p>
                   <p>
-                    My journey in technology began when I was 12, taking apart computers and learning how they worked. That curiosity evolved into a passion for understanding digital security and creating robust software solutions.
+                    My journey in technology began when I was 16, taking apart computers and learning how they worked. That curiosity evolved into a passion for understanding digital security and creating robust software solutions.
                   </p>
                   <p>
                     I specialize in <span className="text-neon-green">penetration testing</span>, <span className="text-neon-green">secure code review</span>, and <span className="text-neon-green">building resilient web applications</span> that can withstand modern threats.
@@ -39,14 +39,14 @@ const AboutSection = () => {
                 <div className="border-l-2 border-electric-blue pl-4 py-1">
                   <div className="flex items-center mb-2">
                     <Briefcase size={18} className="text-neon-green mr-2" />
-                    <h3 className="font-mono text-lg text-neon-green">Senior Security Engineer</h3>
+                    <h3 className="font-mono text-lg text-neon-green">CyberSecurity Engineer</h3>
                   </div>
-                  <p className="text-foreground/80 mb-1">CyberDefend Solutions</p>
+                  <p className="text-foreground/80 mb-1">Eyesec CyberSecurity Solutions</p>
                   <div className="flex items-center text-sm text-foreground/60 mb-2">
                     <Calendar size={14} className="mr-1" />
-                    <span>2020 - Present</span>
+                    <span>2021 - Present</span>
                     <Map size={14} className="ml-4 mr-1" />
-                    <span>San Francisco</span>
+                    <span>San Belagavi, KA</span>
                   </div>
                   <ul className="text-sm space-y-1 text-foreground/80">
                     <li>• Led a team of security analysts in performing risk assessments</li>
@@ -56,9 +56,9 @@ const AboutSection = () => {
                 </div>
                 
                 <div className="border-l-2 border-electric-blue pl-4 py-1">
-                  <div className="flex items-center mb-2">
+                  <div className="flex items-center mb-2">  
                     <Briefcase size={18} className="text-neon-green mr-2" />
-                    <h3 className="font-mono text-lg text-neon-green">Full Stack Developer</h3>
+                    <h3 className="font-mono text-lg text-neon-green">Cloud Engineer</h3>
                   </div>
                   <p className="text-foreground/80 mb-1">TechInnovate Inc.</p>
                   <div className="flex items-center text-sm text-foreground/60 mb-2">
@@ -77,9 +77,9 @@ const AboutSection = () => {
                 <div className="border-l-2 border-electric-blue pl-4 py-1">
                   <div className="flex items-center mb-2">
                     <GraduationCap size={18} className="text-neon-green mr-2" />
-                    <h3 className="font-mono text-lg text-neon-green">M.S. Computer Science</h3>
+                    <h3 className="font-mono text-lg text-neon-green">B.E. Computer Science</h3>
                   </div>
-                  <p className="text-foreground/80 mb-1">Stanford University</p>
+                  <p className="text-foreground/80 mb-1">Angadi Intitute of Technology And Management</p>
                   <div className="flex items-center text-sm text-foreground/60 mb-2">
                     <Calendar size={14} className="mr-1" />
                     <span>2015 - 2017</span>

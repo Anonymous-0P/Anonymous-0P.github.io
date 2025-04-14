@@ -25,7 +25,7 @@ const HeroSection = () => {
                 <span className="glow-text">{'>'} Hello, I'm</span>
               </h1>
               <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6">
-                John Doe
+                Prakash Karekar
               </h2>
             </div>
             
@@ -35,16 +35,16 @@ const HeroSection = () => {
                 <div className="mb-4">
                   <TerminalText
                     texts={[
-                      "Cybersecurity Specialist",
-                      "Full Stack Developer",
+                      "Cybersecurity Engineer",
+                      "Web Developer",
                       "Ethical Hacker",
-                      "Software Engineer"
+                      "Cloud Engineer"
                     ]}
                     className="terminal-text text-lg md:text-xl"
                   />
                 </div>
                 <p className="cmd-line font-mono text-sm mt-6">location</p>
-                <p className="terminal-text text-sm">San Francisco, CA</p>
+                <p className="terminal-text text-sm">Belagavi, KA</p>
               </TerminalWindow>
             )}
             
@@ -69,8 +69,8 @@ const HeroSection = () => {
           <div className="lg:col-span-5">
             <div className={`terminal-window aspect-square max-w-md mx-auto transition-opacity duration-1000 ${showContent ? "opacity-100" : "opacity-0"}`}>
               <img
-                src="https://placehold.co/600x600/1a1a1a/39ff14?text=JD&font=montserrat"
-                alt="John Doe"
+                src="abt.jpg"
+                alt="Prakash"
                 className="rounded-md border border-neon-green/30 w-full h-full object-cover"
               />
               <div className="scan-line"></div>
