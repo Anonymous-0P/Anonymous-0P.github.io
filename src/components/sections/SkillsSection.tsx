@@ -44,7 +44,7 @@ const SkillsSection = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <TerminalWindow title="frontend.sh">
                 <div className="space-y-4">
-                  <SkillBar name="JavaScript/TypeScript" percent={95} delay={100} />
+                  <SkillBar name="JavaScript" percent={95} delay={100} />
                   <SkillBar name="React" percent={90} delay={200} />
                   <SkillBar name="Java" percent={85} delay={300} />
                   <SkillBar name="HTML5/CSS3" percent={92} delay={400} />
